@@ -8,8 +8,7 @@ function App() {
 
   return (
     <>
-       <RouterProvider router={Rutas} />
-       
+       <RouterProvider router={Rutas} />       
     </>
   )
 }
